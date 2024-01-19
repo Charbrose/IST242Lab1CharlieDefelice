@@ -9,6 +9,7 @@
  */
 
 package motorcycles;
+
 public class Motorcycle
 {
     //Fields
