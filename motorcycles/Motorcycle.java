@@ -82,13 +82,10 @@ public class Motorcycle
         bike3.setPrice(11000.00);
 
         //Using getter methods to print updated object values
-        System.out.println("Motorcycle 1: " + bike1.getBrand() + " " + bike1.getModel() +
-                " (" + bike1.getYear() + ") - $" + bike1.getPrice());
+        System.out.println("Motorcycle 1: " + bike1.getBrand() + " " + bike1.getModel() + " (" + bike1.getYear() + ") - $" + bike1.getPrice());
 
-        System.out.println("Motorcycle 2: " + bike2.getBrand() + " " + bike2.getModel() +
-                " (" + bike2.getYear() + ") - $" + bike2.getPrice());
+        System.out.println("Motorcycle 2: " + bike2.getBrand() + " " + bike2.getModel() + " (" + bike2.getYear() + ") - $" + bike2.getPrice());
 
-        System.out.println("Motorcycle 3: " + bike3.getBrand() + " " + bike3.getModel() +
-                " (" + bike3.getYear() + ") - $" + bike3.getPrice());
+        System.out.println("Motorcycle 3: " + bike3.getBrand() + " " + bike3.getModel() + " (" + bike3.getYear() + ") - $" + bike3.getPrice());
     }
 }
