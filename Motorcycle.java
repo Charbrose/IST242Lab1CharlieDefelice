@@ -1,6 +1,6 @@
 /**
  * Project: Motorcycle Project
- * Purpose Details: Representing Motorcycle objects
+ * Purpose Details: Representing Motorcycle Objects
  * Course: IST 242
  * Author: Charlie Defelice
  * Date Developed: January 17, 2024
